@@ -34,7 +34,7 @@ var server = http.createServer(function(request, response){
           response.write('<!DOCTYPE>\n<html>' +
                   '<head><link rel="stylesheet" href="/style.css">' +
                   '</head><body>' +
-                  '<h1>你好，这是我的作业</h1>' +
+                  '<h1>你好，这是我的作业11111111111</h1>' +
                   '<script src="/main.js"></script>' +
                   '</body></html>')
           response.end()
